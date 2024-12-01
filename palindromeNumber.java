@@ -1,5 +1,5 @@
 
-public class palindromenumber {
+public class palindromeNumber {
     public static void main(String[] args) {
         // Hardcoded number for input
         int number = 121;  // You can change this to any number
